@@ -7,6 +7,7 @@ struct Node
     struct Node *left;
     struct Node *right;
     int height;
+    print("Abhay");
 };
  
 int getHeight(struct Node *n){
